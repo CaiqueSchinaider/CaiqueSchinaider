@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Caique Schinaider e sou desenvolvedor Frontend, com experiência em JavaScript e TypeScript, além do uso do framework React JS. Também trabalho com Tailwind CSS e CVA (Class Variance Authority) para manter uma estilização consistente, escalável e bem organizada.
+Me chamo Caique Schinaider tenho 18 anos e sou desenvolvedor Frontend, com experiência em JavaScript e TypeScript, além do uso do framework React JS. Também trabalho com Tailwind CSS e CVA (Class Variance Authority) para manter uma estilização consistente, escalável e bem organizada.
 
 Tenho grande interesse em entender todas as etapas de um projeto, desde a concepção e planejamento até o desenvolvimento final. Estou constantemente buscando consolidar e aprofundar meus conhecimentos, com o objetivo de participar ativamente de todo o processo de criação de soluções digitais, entregando interfaces bem estruturadas, funcionais e agradáveis ao usuário.
 
