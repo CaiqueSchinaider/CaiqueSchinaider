@@ -76,4 +76,6 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 <br/>
 <br/>
 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+
 
