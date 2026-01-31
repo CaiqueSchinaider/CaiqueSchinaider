@@ -79,7 +79,8 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
     alt="AWS S3" 
     title="AWS S3"
     width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" />
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <br/>
 <br/>
 
