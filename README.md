@@ -7,13 +7,21 @@ Me chamo Caique Schinaider e sou desenvolvedor Frontend, com experiência em Jav
 Tenho grande interesse em entender todas as etapas de um projeto, desde a concepção e planejamento até o desenvolvimento final. Estou constantemente buscando consolidar e aprofundar meus conhecimentos, com o objetivo de participar ativamente de todo o processo de criação de soluções digitais, entregando interfaces bem estruturadas, funcionais e agradáveis ao usuário.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/caique-schinaider-a17b35273">
-      <p> Linkedin </p>
-    </a>
-    <a href="schinprojects.com.br">
-       <p> SchinProjects </p>
-    </a>
+  <a href="https://www.linkedin.com/in/caique-schinaider-a17b35273" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://schinprojects.com.br" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/SchinProjects-111827?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="SchinProjects"
+    />
+  </a>
 </p>
+
 
 ---
 
@@ -60,14 +68,6 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -87,22 +87,4 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
