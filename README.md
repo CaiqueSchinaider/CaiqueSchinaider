@@ -8,7 +8,7 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 
 [![SchinGym](https://img.shields.io/badge/SchinGym-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://schingym.vercel.app)
 &nbsp;
-[![SchinProjects](https://img.shields.io/badge/SchinGym-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://schinprojects.com.br)
+[![SchinProjects](https://img.shields.io/badge/SchinProjects-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://schinprojects.com.br)
 
 
 
