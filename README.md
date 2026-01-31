@@ -14,7 +14,7 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 
 
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="JavaScript" 
