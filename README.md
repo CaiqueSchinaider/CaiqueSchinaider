@@ -75,6 +75,13 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 
 <br/>
 <br/>
+---
+
+## 📬 Onde me contatar
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531991522505)
+&nbsp;
+[![SchinGym](https://img.shields.io/badge/SchinGym-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://schingym.vercel.app)
 
 
 
