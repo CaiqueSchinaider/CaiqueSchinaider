@@ -76,10 +76,5 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 <br/>
 <br/>
 
-📈 Evolução como Dev
-Frontend ████████░░ 80%
-Backend  ███░░░░░░░ 30%
-UI/UX    ██████░░░░ 60%
-
 
 
