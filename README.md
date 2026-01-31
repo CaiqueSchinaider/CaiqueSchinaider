@@ -8,17 +8,10 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caique-schinaider-a17b35273" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://schinprojects.com.br" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/SchinProjects-111827?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="SchinProjects"
-    />
+    <img src="https://img.shields.io/badge/SchinProjects-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
