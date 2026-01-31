@@ -6,6 +6,8 @@ Me chamo Caique Schinaider e sou desenvolvedor Frontend, com experiência em Jav
 
 Tenho grande interesse em entender todas as etapas de um projeto, desde a concepção e planejamento até o desenvolvimento final. Estou constantemente buscando consolidar e aprofundar meus conhecimentos, com o objetivo de participar ativamente de todo o processo de criação de soluções digitais, entregando interfaces bem estruturadas, funcionais e agradáveis ao usuário.
 
+## 🧠 Projetos
+  
 [![SchinGym](https://img.shields.io/badge/SchinGym-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://schingym.vercel.app)
 &nbsp;
 [![SchinProjects](https://img.shields.io/badge/SchinProjects-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://schinprojects.com.br)
