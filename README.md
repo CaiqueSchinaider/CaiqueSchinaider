@@ -89,12 +89,7 @@ Tenho grande interesse em entender todas as etapas de um projeto, desde a concep
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531991522505)
 &nbsp;
-<a href="https://www.linkedin.com/in/caique-schinaider-a17b35273">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-    width="28"
-  />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-schinaider-a17b35273)
 
 
 
